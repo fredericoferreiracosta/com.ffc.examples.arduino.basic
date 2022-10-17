@@ -1,7 +1,9 @@
 /*
-  Required libs:
-    - https://github.com/bblanchon/ArduinoJson
-  
+    Required libs:
+      - https://github.com/bblanchon/ArduinoJson
+
+    Required boards:
+      - ESP8266 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 */
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
